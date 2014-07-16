@@ -2,7 +2,7 @@ Sticko - A free Ghost theme :)
 =======
 
 
-![screen](http://damianmuti.com/downloads/screen.jpg)
+![screen](./screen.png)
 
 ## About this theme
 
